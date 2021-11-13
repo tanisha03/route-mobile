@@ -1,0 +1,46 @@
+.container {
+    padding: 2%;
+}
+
+#chartGrid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#chartGrid div {
+    margin: 5%;
+}
+
+.title {
+    font-size: 1.2rem;
+}
+
+#nearbuy-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#nav-links {
+    list-style: none;
+}
+
+#nav-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 8px;
+}
+
+.offersTile {
+    background-color: #eee;
+    padding: 16px;
+    margin: 16px 0;
+}
+
+.tag {
+    background-color: #222;
+    color: white;
+    border-radius: 2px;
+    padding: 4px;
+    margin: 0 8px;
+    font-size: 0.7rem;
+}
