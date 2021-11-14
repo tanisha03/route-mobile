@@ -19,3 +19,7 @@
 4. Merchant Web App
 
       URL: http://cashop-web.us-east-1.elasticbeanstalk.com/
+
+5. Merchant Mobile App (Beacon - Simulator)
+
+      URL: https://drive.google.com/file/d/1ThnLVU7PDRoMIXr6HHE1stryYynyt3o-/view?usp=sharing

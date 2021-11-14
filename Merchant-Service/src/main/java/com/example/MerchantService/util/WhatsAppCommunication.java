@@ -12,8 +12,8 @@ import java.util.List;
 public class WhatsAppCommunication {
     // Find your Account SID and Auth Token at twilio.com/console
     // and set the environment variables. See http://twil.io/secure
-    public static final String ACCOUNT_SID = "AC63307fff7d6088ec61dd563aa8974597";
-    public static final String AUTH_TOKEN = "4e0de7d5e11f816bf3e0dce3bd423aa2";
+    public static final String ACCOUNT_SID = "ENTER_YOURS";
+    public static final String AUTH_TOKEN = "ENTER_YOURS";
 
     public boolean sendWhatsappText(List<CampaignData> customerNumbers, Campaign campaign) {
         Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
